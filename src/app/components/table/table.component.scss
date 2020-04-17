@@ -1,0 +1,12 @@
+table {
+    width: 100%;
+    background-color: lightcyan;
+  }
+  .button{
+      background-color: lightskyblue;
+      width: 46px;
+  }
+  @supports (-ms-ime-align:auto) {
+    .medQuery { width:20px; 
+    align-self: center;} 
+  }
